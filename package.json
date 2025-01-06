@@ -2,6 +2,7 @@
   "name": "ivonneferrandez",
   "type": "module",
   "version": "0.0.1",
+  "site": "ivonneferrandez.com",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
